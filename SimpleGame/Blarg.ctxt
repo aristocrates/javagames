@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Blarg()
+comment1.params=e
+comment1.target=void\ update(otherStuff.GameEvent)
+comment2.params=
+comment2.target=void\ loadImages()
+comment3.params=
+comment3.target=boolean\ loopable()
+comment4.params=
+comment4.target=int\ getWidth()
+comment5.params=g
+comment5.target=void\ drawMe(java.awt.Graphics)
+comment6.params=p
+comment6.target=void\ setLocation(java.awt.Point)
+comment7.params=e
+comment7.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment8.params=e
+comment8.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment9.params=e
+comment9.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment9.text=\r\n\ At\ the\ time\ of\ writing\ this\ I\ don't\ really\ have\ any\ use\ for\ keyTyped,\ so\ it's\ just\r\n\ sitting\ here\ doing\ nothing\ and\ taking\ up\ space\ in\ my\ source\ code\r\n
+numComments=10

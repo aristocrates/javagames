@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setToTimeZero()
+comment0.text=\r\n\ Sets\ the\ time\ to\ zero\r\n
+comment1.params=
+comment1.target=int\ getTime()
+comment1.text=\r\n\ If\ paused,\ \r\n\ \r\n\ @return\ the\ time\ elapsed\ in\ milliseconds\r\n
+comment2.params=
+comment2.target=void\ pause()
+comment2.text=\r\n\ Called\ to\ signify\ that\ the\ game\ is\ paused.\ If\ this\ is\ called,\ getTime()\ \r\n\ will\ not\ increase\ until\ resume()\ is\ called,\ when\ it\ will\ then\ increase\r\n\ normally\r\n
+comment3.params=
+comment3.target=void\ resume()
+comment3.text=\r\n\ Called\ to\ signify\ that\ a\ paused\ game\ has\ now\ been\ resumed.\r\n\ Does\ nothing\ if\ the\ game\ has\ not\ been\ paused\r\n
+numComments=4

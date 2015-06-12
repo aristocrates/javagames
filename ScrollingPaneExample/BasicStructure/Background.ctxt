@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.awt.Image\ getImage()
+comment1.params=
+comment1.target=void\ update()
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=
+comment3.target=int\ getHeight()
+numComments=4

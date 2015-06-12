@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=amntMetal\ numPeople
+comment0.target=ResourceManager(int,\ int)
+comment1.params=m
+comment1.target=ResourceManager(ResourceManager)
+comment2.params=
+comment2.target=int\ getMetalPieces()
+comment3.params=
+comment3.target=int\ getNumPeople()
+comment4.params=t
+comment4.target=boolean\ canBuild(Tower)
+comment5.params=t
+comment5.target=boolean\ construct(Tower)
+comment6.params=r
+comment6.target=void\ subtract(ResourceManager)
+numComments=7

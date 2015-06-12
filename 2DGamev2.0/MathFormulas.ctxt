@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x1\ y1\ x2\ y2
+comment0.target=double\ distanceFormula(double,\ double,\ double,\ double)
+comment1.params=x\ y\ leftX\ topY\ width\ height
+comment1.target=boolean\ pointWithin(double,\ double,\ double,\ double,\ double,\ double)
+numComments=2

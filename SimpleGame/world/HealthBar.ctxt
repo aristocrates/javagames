@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=level
+comment0.target=HealthBar(int)
+comment1.params=
+comment1.target=GameComponent\ clone()
+comment2.params=e
+comment2.target=void\ update(otherStuff.GameEvent)
+comment3.params=g
+comment3.target=void\ drawMe(java.awt.Graphics)
+comment4.params=
+comment4.target=boolean\ loopable()
+comment5.params=
+comment5.target=java.awt.Shape\ getDimensions()
+numComments=6

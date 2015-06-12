@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=type\ command
+comment0.target=GameEvent(java.lang.String,\ java.lang.String)
+comment1.params=type\ command
+comment1.target=GameEvent(GameEvent,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=o
+comment3.target=boolean\ equals(java.lang.Object)
+numComments=4

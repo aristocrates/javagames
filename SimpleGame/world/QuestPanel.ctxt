@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=width\ height\ quest
+comment0.target=QuestPanel(int,\ int,\ Quest)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+numComments=2

@@ -1,0 +1,1 @@
+Handles the visual aspects of the game, and pretty much everything else too

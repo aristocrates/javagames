@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Score()
+comment0.text=\r\n\ Make\ a\ new\ Score\ object\ with\ a\ score\ of\ 0\r\n
+comment1.params=amnt
+comment1.target=void\ addScore(int)
+comment1.text=\r\n\ Adds\ to\ the\ score\r\n
+comment2.params=
+comment2.target=int\ getScore()
+comment2.text=\r\n\ @return\ the\ \r\n
+numComments=3

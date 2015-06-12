@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=background\ components\ length\ rate
+comment0.target=Quest(Background,\ java.util.ArrayList,\ int,\ int)
+comment0.text=\r\n\ Constructs\ a\ quest\ with\ a\ specified\ background\ and\ GameComponents\r\n
+comment1.params=
+comment1.target=java.awt.Image\ getImage()
+comment2.params=
+comment2.target=javax.swing.JPanel\ getPanel()
+numComments=3

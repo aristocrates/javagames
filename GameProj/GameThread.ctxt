@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.Thread\ getThread()
+comment0.text=\r\n\ @return\ a\ thread\ for\ this\ Runnable\r\n
+numComments=1

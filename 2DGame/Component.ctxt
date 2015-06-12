@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x1\ y1
+comment0.target=Component(int,\ int)
+comment1.params=
+comment1.target=Component\ clone()
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics)
+comment3.params=x\ y\ time
+comment3.target=int\ update(int,\ int,\ double)
+numComments=4

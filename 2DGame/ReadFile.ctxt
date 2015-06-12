@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s\ m
+comment0.target=void\ setReadInput(java.lang.String,\ javax.swing.JPanel)
+comment1.params=s
+comment1.target=Component[]\ readInput(java.lang.String)
+comment2.params=e\ filename\ doorX\ doorY
+comment2.target=void\ writeOutput(Component[],\ java.lang.String,\ int,\ int)
+comment3.params=a
+comment3.target=int\ bool2int(boolean)
+numComments=4

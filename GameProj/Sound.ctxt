@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ playMusic()
+comment0.text=\r\n\ Loops\ the\ background\ music\r\n
+comment1.params=
+comment1.target=void\ stopMusic()
+comment1.text=\r\n\ Stops\ the\ background\ music\r\n
+comment2.params=filename
+comment2.target=void\ playSound(java.lang.String)
+comment2.text=\r\n\ Plays\ a\ non-background\ music\ sound\r\n
+comment3.params=e
+comment3.target=void\ update(javax.sound.sampled.LineEvent)
+comment4.params=name
+comment4.target=javax.sound.sampled.Clip\ getClipFromFilename(java.lang.String)
+comment4.text=\r\n\ Encapsulates\ the\ creation\ of\ sound\ clips\r\n
+numComments=5

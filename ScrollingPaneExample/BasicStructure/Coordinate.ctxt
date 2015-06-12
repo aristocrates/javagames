@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Coordinate(int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=int\ hashCode()
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=other
+comment5.target=double\ distanceTo(Coordinate)
+numComments=6

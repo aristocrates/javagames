@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=g\ text\ pointed
+comment0.target=Callout(GameComponent,\ java.lang.String,\ boolean)
+comment0.text=\r\n\ Constructs\ a\ somewhat\ "1.33\:1"\ aspect\ ratio\ callout\r\n
+comment1.params=g\ text\ width
+comment1.target=Callout(GameComponent,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=boolean\ loopable()
+comment2.params=g
+comment2.target=void\ setNewSource(GameComponent)
+comment3.params=
+comment3.target=GameComponent\ clone()
+comment4.params=g\ text\ x\ y
+comment4.target=void\ drawLinebreakString(java.awt.Graphics,\ java.lang.String,\ int,\ int)
+comment5.params=orig
+comment5.target=java.lang.String\ splitString(java.lang.String)
+comment5.text=\r\n\ Returns\ the\ string\ "split"\ by\ \\n\ characters\ into\ "lines"\ of\ width\ that\r\n\ will\ fit\ on\ the\ width\ of\ the\ callout\r\n\ Also\ sets\ the\ callout\ height\r\n
+comment6.params=
+comment6.target=java.awt.Shape\ getDimensions()
+comment7.params=g
+comment7.target=void\ drawMe(java.awt.Graphics)
+comment8.params=e
+comment8.target=void\ update(otherStuff.GameEvent)
+comment9.params=text
+comment9.target=int\ getTextArea(java.lang.String)
+numComments=11

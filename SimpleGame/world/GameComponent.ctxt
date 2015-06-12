@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ drawMe(java.awt.Graphics)
+comment1.params=
+comment1.target=java.awt.Shape\ getDimensions()
+comment2.params=e
+comment2.target=void\ update(otherStuff.GameEvent)
+comment3.params=
+comment3.target=boolean\ loopable()
+comment4.params=
+comment4.target=GameComponent\ clone()
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=l\ fileName
+comment0.target=void\ writeOutput(Level,\ java.lang.String)
+comment1.params=fileName
+comment1.target=Level\ getLevelData(java.lang.String)
+comment2.params=fileName
+comment2.target=void\ encrypt(java.lang.String)
+comment3.params=fileName
+comment3.target=void\ decrypt(java.lang.String)
+numComments=4

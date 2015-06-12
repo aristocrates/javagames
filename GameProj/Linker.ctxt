@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=c\ w
+comment0.target=Linker(Coordinate,\ World)
+comment1.params=c\ maxLinks\ linkDist\ maxHealth\ w
+comment1.target=Linker(Coordinate,\ int,\ double,\ int,\ World)
+comment2.params=
+comment2.target=void\ doStuff()
+comment3.params=
+comment3.target=void\ build()
+comment4.params=
+comment4.target=ResourceManager\ cost()
+comment5.params=
+comment5.target=Tower\ clone()
+comment6.params=
+comment6.target=java.awt.Color\ towerColor()
+comment7.params=other
+comment7.target=void\ link(Tower)
+comment8.params=
+comment8.target=int\ radius()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

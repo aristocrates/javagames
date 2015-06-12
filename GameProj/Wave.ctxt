@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=dir\ w\ numEnemies\ time
+comment0.target=Wave(int,\ World,\ int,\ double)
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=void\ addToWorld()
+numComments=2

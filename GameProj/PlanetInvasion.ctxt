@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=PlanetInvasion(int)
+comment1.params=
+comment1.target=int\ getHeight()
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=java.awt.Image\ getImage()
+numComments=5

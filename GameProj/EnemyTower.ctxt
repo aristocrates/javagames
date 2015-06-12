@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=c\ maxHealth\ radius\ w
+comment0.target=EnemyTower(Coordinate,\ int,\ int,\ World)
+comment0.text=\r\n\ Makes\ a\ new\ enemy\ tower\r\n
+comment1.params=c\ maxHealth\ radius\ w\ timeAppear
+comment1.target=EnemyTower(Coordinate,\ int,\ int,\ World,\ double)
+comment1.text=\r\n\ Makes\ a\ new\ enemy\ tower\r\n
+comment2.params=
+comment2.target=int\ damagePerTurn()
+comment2.text=\r\n\ Useless\ as\ EnemyTowers\ do\ not\ directly\ attack,\ just\ to\ override\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Has\ the\ tower\ release\ enemies\ over\ time\r\n
+comment4.params=
+comment4.target=void\ die()
+comment5.params=g
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment5.text=\r\n\ Draws\ this\ tower\r\n
+numComments=6

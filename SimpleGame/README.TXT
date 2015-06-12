@@ -1,0 +1,1 @@
+Credit to http://www.springhole.net/writing_roleplaying_randomators//90saliennames.htm for inspiration for alien name

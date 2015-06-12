@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=level
+comment0.target=ImperialGuard(int)
+comment1.params=
+comment1.target=int\ damageDone()
+comment2.params=e
+comment2.target=void\ update(otherStuff.GameEvent)
+comment3.params=
+comment3.target=java.awt.Shape\ getDimensions()
+comment4.params=g
+comment4.target=void\ drawMe(java.awt.Graphics)
+numComments=5

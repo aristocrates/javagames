@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=width\ height\ m\ minutes
+comment0.target=SurvivalWorld(int,\ int,\ ResourceManager,\ int)
+comment1.params=
+comment1.target=boolean\ fail()
+comment2.params=
+comment2.target=World\ newClone()
+numComments=3

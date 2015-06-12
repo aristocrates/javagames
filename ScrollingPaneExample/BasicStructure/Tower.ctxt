@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=c\ maxLinks\ linkDist
+comment0.target=Tower(Coordinate,\ int,\ double)
+comment1.params=
+comment1.target=Coordinate\ getCoordinate()
+comment2.params=other
+comment2.target=void\ link(Tower)
+comment3.params=
+comment3.target=java.awt.Color\ towerColor()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+numComments=5

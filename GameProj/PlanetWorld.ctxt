@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=type\ width\ height\ m
+comment0.target=PlanetWorld(int,\ int,\ int,\ ResourceManager)
+comment0.text=\r\n\ Makes\ a\ new\ PlanetWorld\r\n
+comment1.params=
+comment1.target=boolean\ complete()
+comment2.params=
+comment2.target=boolean\ fail()
+comment3.params=c
+comment3.target=EnemyTower\ towerAt(Coordinate)
+comment3.text=\r\n\ Step-wise\ refinement\ to\ reduce\ codelength\ for\ creating\ PlanetWorld-\r\n\ specific\ EnemyTowers\r\n
+comment4.params=
+comment4.target=World\ newClone()
+comment4.text=\r\n\ Overrides\ World's\r\n
+comment5.params=other
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\r\n\ Compares\ equality\r\n
+comment6.params=e
+comment6.target=void\ addEnemy(Enemy)
+comment6.text=\r\n\ Overrides\ to\ store\ EnemyTowers\ in\ tows\r\n
+comment7.params=e
+comment7.target=void\ removeEnemy(Enemy)
+comment7.text=\r\n\ Overrides\ to\ remove\ EnemyTowers\ from\ tows\r\n
+numComments=8

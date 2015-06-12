@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=text\ width\ loc\ c
+comment0.target=TextBubble(java.lang.String,\ int,\ Coordinate,\ Objective)
+comment1.params=g\ text\ x\ y
+comment1.target=void\ drawLineBreakString(java.awt.Graphics,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Draws\ the\ string\ so\ that\ it\ \r\n
+comment2.params=orig
+comment2.target=java.lang.String\ splitString(java.lang.String)
+comment2.text=\r\n\ Returns\ the\ string\ "split"\ by\ \\n\ characters\ into\ "lines"\ of\ width\ that\r\n\ will\ fit\ on\ the\ width\ of\ the\ callout\r\n\ Also\ sets\ the\ callout\ height\r\n
+comment3.params=g
+comment3.target=void\ drawMe(java.awt.Graphics)
+comment3.text=\r\n\ Draws\ the\ TextBubble\ onto\ the\ given\ Graphics\ object\r\n
+comment4.params=
+comment4.target=java.awt.Font\ getFont()
+comment4.text=\r\n\ Currently,\ this\ will\ only\ ever\ be\ Arial\ size\ 15\ as\ certain\ other\ fonts\r\n\ tend\ to\ cause\ lag\ when\ loading\ the\ FontMetrics\ object\r\n\ \r\n\ @return\ the\ font\ used\ by\ this\ TextBubble\r\n
+numComments=5

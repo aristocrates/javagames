@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ damageDone()
+comment0.text=\r\n\ @return\ the\ amount\ of\ damage\ to\ Blarg's\ life\ done\r\n
+comment1.params=
+comment1.target=boolean\ loopable()
+numComments=2

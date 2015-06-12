@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=width\ height\ backgroundColor\ starColor
+comment0.target=StarrySky(int,\ int,\ java.awt.Color,\ java.awt.Color)
+comment1.params=width\ height\ bckg\ starColor
+comment1.target=StarrySky(int,\ int,\ java.awt.Image,\ java.awt.Color)
+comment2.params=width\ height\ starColor
+comment2.target=StarrySky(int,\ int,\ java.awt.Color)
+comment3.params=
+comment3.target=void\ randomlyGenerateStars()
+comment4.params=
+comment4.target=java.awt.Image\ getImage()
+comment5.params=
+comment5.target=void\ update()
+numComments=6

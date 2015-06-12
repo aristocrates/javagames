@@ -1,0 +1,14 @@
+Explanation of codes used in the game:
+
+Event handler codes:
+0 - Do nothing
+1 - Kill
+2 - Star Collect
+
+File data code:
+First line - how many Components are to be loaded
+Second line - stars
+Third line - walls
+Fourth line - death stars
+Fifth line - bombs
+Sixth line - teleporters
